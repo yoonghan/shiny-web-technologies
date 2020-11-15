@@ -7,8 +7,7 @@ Using Google's workbox-sw [link on workbox](https://developers.google.com/web/to
 ## To install
 
 ```
- npm install -g workbox
- #not sure if npx workbox will work...(means not o install global)
+ npm install
 ```
 
 ## To start
